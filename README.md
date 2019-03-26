@@ -1,6 +1,6 @@
 # Arduino Soil Moisture relay controller
 
-Arduino example to control a relay based on moisture values
+Arduino example to control a relay based on moisture values. The basis for a smart garden irrigation system.
 # Wiring relay
 
 - Connect VCC to 3.3v
